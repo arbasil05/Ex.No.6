@@ -1,7 +1,7 @@
 # Ex.No.6 Development of Python Code for Movie Data Fetching Using Free Public APIs
 
-*Name*: Abdur Rahman Basil A H
-*Register no*: 212223040002
+### Name: Abdur Rahman Basil A H
+### Register no: 212223040002
 # Aim: 
 Write and implement Python code that fetches movie data from multiple free public APIs (no API key required), compares their outputs, and generates actionable insights about movies, genres, and trends.
 
